@@ -1,0 +1,86 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP4040.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016126
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP3639.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016126
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP4545.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016144
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP5759.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016181
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP7285.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016246
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP86106.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016375
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/HCOMP112140.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016381
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP3639.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016381
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP4040.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016381
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP4545.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016450
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP5759.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016573
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP86106.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016576
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP7285.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016587
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/images\/products\/ICOMP112140.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1588557016591
+    }
+]
