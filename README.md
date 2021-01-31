@@ -1,5 +1,5 @@
 # TestingE-commerceWebsite
-Simple manual and automated tests in the Laravel framework.
+Simple manual and automated tests written in PHP using the Laravel framework.
 
 Functionality tests.
  - Pages load correctly and features on the pages are visible (e.g products are visible on products page).
